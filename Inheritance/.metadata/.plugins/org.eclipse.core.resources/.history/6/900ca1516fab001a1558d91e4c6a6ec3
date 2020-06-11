@@ -1,0 +1,11 @@
+
+public class Cat extends Animal{
+	public void petCat() {
+		System.out.println("The cat meows.");
+	}
+	
+	@Override
+	public void sleep() {
+		System.out.println("The cat goes to sleep.");
+	}
+}

@@ -1,0 +1,7 @@
+
+public class Dog {
+	
+	public void rubDog() {
+		System.out.println("The dog wags its tail.");
+	}
+}

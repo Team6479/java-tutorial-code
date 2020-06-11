@@ -1,0 +1,10 @@
+
+public class Cat{
+	public void petCat() {
+		System.out.println("The cat meows.");
+	}
+	
+	public void sleep() {
+		System.out.println("The cat goes to sleep.");
+	}
+}

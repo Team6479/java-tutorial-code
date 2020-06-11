@@ -1,0 +1,11 @@
+
+public class Dog {
+	
+	public void rubDog() {
+		System.out.println("The dog wags its tail.");
+	}
+	
+	public void sleep() {
+		System.out.println("The dog goes to sleep.");
+	}
+}

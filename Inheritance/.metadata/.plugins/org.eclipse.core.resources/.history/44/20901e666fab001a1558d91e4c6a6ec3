@@ -1,0 +1,6 @@
+
+public class Cat{
+	public void petCat() {
+		System.out.println("The cat meows.");
+	}
+}
