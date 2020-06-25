@@ -50,7 +50,7 @@ public class Conditionals {
 			//false + true --> true
 			//false + false --> false
 		
-		//! --> makes it oppposite value
+		//! --> makes it opposite value
 		
 		int x = 6;
 		
